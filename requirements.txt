@@ -1,0 +1,11 @@
+altair
+pandas
+streamlit
+torch
+timm
+torchvision
+numpy
+plotly
+Pillow
+huggingface-hub
+opencv-python-headless
